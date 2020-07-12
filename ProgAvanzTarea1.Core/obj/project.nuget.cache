@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZsJVBJgjv5aRSuvplNwA/mcX1AStD2oIFywiajXVgAQoD0lHRXmDS+c8wJIpwMbv67kS7EwhO5td/QiB5GFMvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1\\ProgAvanzTarea1.Core\\ProgAvanzTarea1.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ammarin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
