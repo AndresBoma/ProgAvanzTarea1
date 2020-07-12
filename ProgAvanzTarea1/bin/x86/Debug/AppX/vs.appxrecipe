@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-07-12T01:53:57.549</Modified>
+      <Modified>2020-07-12T19:00:54.230</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\ProgAvanzTarea1.exe">
       <PackagePath>entrypoint\ProgAvanzTarea1.exe</PackagePath>
-      <Modified>2020-07-12T01:53:55.771</Modified>
+      <Modified>2020-07-12T18:53:30.574</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ammarin\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.1\lib\uap10.0\Microsoft.Xaml.Interactions.dll">
       <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
@@ -98,59 +98,51 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\ProgAvanzTarea1.xr.xml">
       <PackagePath>ProgAvanzTarea1.xr.xml</PackagePath>
-      <Modified>2020-07-12T01:53:55.456</Modified>
+      <Modified>2020-07-12T18:53:30.133</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-07-12T01:53:55.511</Modified>
+      <Modified>2020-07-12T19:00:52.993</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Styles\Page.xbf">
       <PackagePath>Styles\Page.xbf</PackagePath>
-      <Modified>2020-07-12T01:53:55.510</Modified>
+      <Modified>2020-07-12T19:00:52.992</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Styles\_Colors.xbf">
       <PackagePath>Styles\_Colors.xbf</PackagePath>
-      <Modified>2020-07-12T01:53:55.510</Modified>
+      <Modified>2020-07-12T19:00:52.992</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Styles\_FontSizes.xbf">
       <PackagePath>Styles\_FontSizes.xbf</PackagePath>
-      <Modified>2020-07-12T01:53:55.510</Modified>
+      <Modified>2020-07-12T19:00:52.992</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Styles\_Thickness.xbf">
       <PackagePath>Styles\_Thickness.xbf</PackagePath>
-      <Modified>2020-07-12T01:53:55.511</Modified>
+      <Modified>2020-07-12T19:00:52.992</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Styles\TextBlock.xbf">
       <PackagePath>Styles\TextBlock.xbf</PackagePath>
-      <Modified>2020-07-12T01:53:55.511</Modified>
+      <Modified>2020-07-12T19:00:52.993</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\CajerosPage.xbf">
       <PackagePath>Views\CajerosPage.xbf</PackagePath>
-      <Modified>2020-07-12T01:53:55.512</Modified>
+      <Modified>2020-07-12T19:00:52.993</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\CategoriasPage.xbf">
       <PackagePath>Views\CategoriasPage.xbf</PackagePath>
-      <Modified>2020-07-12T01:53:55.512</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\MainPage.xbf">
-      <PackagePath>Views\MainPage.xbf</PackagePath>
-      <Modified>2020-07-12T01:53:55.512</Modified>
+      <Modified>2020-07-12T19:00:52.993</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\ProductoPage.xbf">
       <PackagePath>Views\ProductoPage.xbf</PackagePath>
-      <Modified>2020-07-12T01:53:55.513</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\RegistrosPage.xbf">
-      <PackagePath>Views\RegistrosPage.xbf</PackagePath>
-      <Modified>2020-07-12T01:53:55.513</Modified>
+      <Modified>2020-07-12T19:00:52.994</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\ShellPage.xbf">
       <PackagePath>Views\ShellPage.xbf</PackagePath>
-      <Modified>2020-07-12T01:53:55.513</Modified>
+      <Modified>2020-07-12T19:00:52.994</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\SupervisoresPage.xbf">
       <PackagePath>Views\SupervisoresPage.xbf</PackagePath>
-      <Modified>2020-07-12T01:53:55.514</Modified>
+      <Modified>2020-07-12T19:00:52.994</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -166,11 +158,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-07-12T01:33:58.473</Modified>
+      <Modified>2020-07-12T18:53:31.425</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Core\ProgAvanzTarea1.exe">
       <PackagePath>ProgAvanzTarea1.exe</PackagePath>
-      <Modified>2020-07-12T01:53:57.539</Modified>
+      <Modified>2020-07-12T19:00:54.224</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

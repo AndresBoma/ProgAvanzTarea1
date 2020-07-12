@@ -100,14 +100,8 @@
     <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\CategoriasPage.xbf">
       <PackagePath>Views\CategoriasPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\MainPage.xbf">
-      <PackagePath>Views\MainPage.xbf</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\ProductoPage.xbf">
       <PackagePath>Views\ProductoPage.xbf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\RegistrosPage.xbf">
-      <PackagePath>Views\RegistrosPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\ShellPage.xbf">
       <PackagePath>Views\ShellPage.xbf</PackagePath>

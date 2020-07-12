@@ -39,7 +39,7 @@ namespace ProgAvanzTarea1
 
         private ActivationService CreateActivationService()
         {
-            return new ActivationService(this, typeof(Views.MainPage), new Lazy<UIElement>(CreateShell));
+            return new ActivationService(this, typeof(Views.Main), new Lazy<UIElement>(CreateShell));
         }
 
         private UIElement CreateShell()

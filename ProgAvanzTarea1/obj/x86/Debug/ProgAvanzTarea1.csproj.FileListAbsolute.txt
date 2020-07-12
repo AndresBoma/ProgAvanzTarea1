@@ -105,9 +105,7 @@ C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\St
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Styles\TextBlock.xbf
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\CajerosPage.xbf
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\CategoriasPage.xbf
-C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\MainPage.xbf
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\ProductoPage.xbf
-C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\RegistrosPage.xbf
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\ShellPage.xbf
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\SupervisoresPage.xbf
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\ProgAvanzTarea1.xr.xml
@@ -133,12 +131,8 @@ C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Vi
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\CajerosPage.g.cs
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\CategoriasPage.g.i.cs
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\CategoriasPage.g.cs
-C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\MainPage.g.i.cs
-C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\MainPage.g.cs
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\ProductoPage.g.i.cs
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\ProductoPage.g.cs
-C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\RegistrosPage.g.i.cs
-C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\RegistrosPage.g.cs
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\ShellPage.g.i.cs
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\ShellPage.g.cs
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\SupervisoresPage.g.i.cs
@@ -152,9 +146,7 @@ C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\St
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Styles\TextBlock.xaml
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\CajerosPage.xaml
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\CategoriasPage.xaml
-C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\MainPage.xaml
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\ProductoPage.xaml
-C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\RegistrosPage.xaml
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\ShellPage.xaml
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\SupervisoresPage.xaml
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\App.xbf
@@ -165,9 +157,7 @@ C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\St
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Styles\TextBlock.xbf
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\CajerosPage.xbf
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\CategoriasPage.xbf
-C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\MainPage.xbf
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\ProductoPage.xbf
-C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\RegistrosPage.xbf
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\ShellPage.xbf
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\Views\SupervisoresPage.xbf
 C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\XamlSaveStateFile.xml
