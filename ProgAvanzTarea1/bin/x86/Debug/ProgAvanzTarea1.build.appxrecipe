@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>688E018E-3E6F-4EAF-8C85-611444AC462E</PackageIdentityName>
     <PackageIdentityPublisher>CN=ammarin</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\bin\x86\Debug\ProgAvanzTarea1.exe">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\ProgAvanzTarea1.exe">
       <PackagePath>entrypoint\ProgAvanzTarea1.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ammarin\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.1\lib\uap10.0\Microsoft.Xaml.Interactions.dll">
@@ -37,97 +37,97 @@
     <AppxPackagedFile Include="C:\Users\ammarin\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.9\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1.Core\bin\Debug\netstandard2.0\ProgAvanzTarea1.Core.dll">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1.Core\bin\Debug\netstandard2.0\ProgAvanzTarea1.Core.dll">
       <PackagePath>ProgAvanzTarea1.Core.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\bin\x86\Debug\ProgAvanzTarea1.xr.xml">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\ProgAvanzTarea1.xr.xml">
       <PackagePath>ProgAvanzTarea1.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\bin\x86\Debug\Styles\Page.xbf">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Styles\Page.xbf">
       <PackagePath>Styles\Page.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\bin\x86\Debug\Styles\_Colors.xbf">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Styles\_Colors.xbf">
       <PackagePath>Styles\_Colors.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\bin\x86\Debug\Styles\_FontSizes.xbf">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Styles\_FontSizes.xbf">
       <PackagePath>Styles\_FontSizes.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\bin\x86\Debug\Styles\_Thickness.xbf">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Styles\_Thickness.xbf">
       <PackagePath>Styles\_Thickness.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\bin\x86\Debug\Styles\TextBlock.xbf">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Styles\TextBlock.xbf">
       <PackagePath>Styles\TextBlock.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\bin\x86\Debug\Views\CajerosPage.xbf">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\CajerosPage.xbf">
       <PackagePath>Views\CajerosPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\bin\x86\Debug\Views\CategoriasPage.xbf">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\CategoriasPage.xbf">
       <PackagePath>Views\CategoriasPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\bin\x86\Debug\Views\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\MainPage.xbf">
       <PackagePath>Views\MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\bin\x86\Debug\Views\ProductoPage.xbf">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\ProductoPage.xbf">
       <PackagePath>Views\ProductoPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\bin\x86\Debug\Views\RegistrosPage.xbf">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\RegistrosPage.xbf">
       <PackagePath>Views\RegistrosPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\bin\x86\Debug\Views\ShellPage.xbf">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\ShellPage.xbf">
       <PackagePath>Views\ShellPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\bin\x86\Debug\Views\SupervisoresPage.xbf">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Views\SupervisoresPage.xbf">
       <PackagePath>Views\SupervisoresPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\x86\ucrtbased.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ammarin\.nuget\packages\microsoft.ui.xaml\2.3.200213001\buildTransitive\..\lib\uap10.0\Microsoft.UI.Xaml.winmd">
       <PackagePath>WinMetadata\Microsoft.UI.Xaml.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\bin\x86\Debug\Core\ProgAvanzTarea1.exe">
+    <AppxPackagedFile Include="C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\bin\x86\Debug\Core\ProgAvanzTarea1.exe">
       <PackagePath>ProgAvanzTarea1.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

@@ -1,1 +1,1 @@
-C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1\ProgAvanzTarea1.csproj;x86
+C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1\ProgAvanzTarea1.csproj;x86

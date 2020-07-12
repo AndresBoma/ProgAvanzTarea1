@@ -12,8 +12,8 @@ namespace ProgAvanzTarea1.ViewModels
         {
             Cajeros = new Cajero[20];
 
-            Cajero TemporalCajero1 = new Cajero { ID = 377973, Nombre = "Alexander", PrimerApellido = "Acuna", SegundoApellido = "Arias" };
-            Cajero TemporalCajero2 = new Cajero { ID = 102263641, Nombre = "Maria Fernanda", PrimerApellido = "Camacho", SegundoApellido = "Camacho" };
+            Cajero TemporalCajero1 = new Cajero { ID = 377973, Nombre = "Alexander", PrimerApellido = "Acuna", SegundoApellido = "Arias", Caja = 1 };
+            Cajero TemporalCajero2 = new Cajero { ID = 102263641, Nombre = "Maria Fernanda", PrimerApellido = "Camacho", SegundoApellido = "Camacho", Caja = 2 };
 
             Cajeros[0] = TemporalCajero1;
             Cajeros[1] = TemporalCajero2;
@@ -53,7 +53,7 @@ namespace ProgAvanzTarea1.ViewModels
 
                 }
                 else {
-                    temp = c.ToString();
+                    temp += c.ToString();
                 }
             }
 

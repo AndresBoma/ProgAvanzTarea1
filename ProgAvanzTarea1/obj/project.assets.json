@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "UAP,Version=v10.0.18362": {
+    "UAP,Version=v10.0.17763": {
       "Microsoft.Net.Native.Compiler/2.2.7-rel-27913-00": {
         "type": "package",
         "dependencies": {
@@ -341,7 +341,7 @@
         }
       }
     },
-    "UAP,Version=v10.0.18362/win10-arm": {
+    "UAP,Version=v10.0.17763/win10-arm": {
       "Microsoft.Net.Native.Compiler/2.2.7-rel-27913-00": {
         "type": "package",
         "dependencies": {
@@ -860,7 +860,7 @@
         }
       }
     },
-    "UAP,Version=v10.0.18362/win10-arm-aot": {
+    "UAP,Version=v10.0.17763/win10-arm-aot": {
       "Microsoft.Net.Native.Compiler/2.2.7-rel-27913-00": {
         "type": "package",
         "dependencies": {
@@ -1380,7 +1380,7 @@
         }
       }
     },
-    "UAP,Version=v10.0.18362/win10-arm64-aot": {
+    "UAP,Version=v10.0.17763/win10-arm64-aot": {
       "Microsoft.Net.Native.Compiler/2.2.7-rel-27913-00": {
         "type": "package",
         "dependencies": {
@@ -1900,7 +1900,7 @@
         }
       }
     },
-    "UAP,Version=v10.0.18362/win10-x64": {
+    "UAP,Version=v10.0.17763/win10-x64": {
       "Microsoft.Net.Native.Compiler/2.2.7-rel-27913-00": {
         "type": "package",
         "dependencies": {
@@ -2419,7 +2419,7 @@
         }
       }
     },
-    "UAP,Version=v10.0.18362/win10-x64-aot": {
+    "UAP,Version=v10.0.17763/win10-x64-aot": {
       "Microsoft.Net.Native.Compiler/2.2.7-rel-27913-00": {
         "type": "package",
         "dependencies": {
@@ -2939,7 +2939,7 @@
         }
       }
     },
-    "UAP,Version=v10.0.18362/win10-x86": {
+    "UAP,Version=v10.0.17763/win10-x86": {
       "Microsoft.Net.Native.Compiler/2.2.7-rel-27913-00": {
         "type": "package",
         "dependencies": {
@@ -3458,7 +3458,7 @@
         }
       }
     },
-    "UAP,Version=v10.0.18362/win10-x86-aot": {
+    "UAP,Version=v10.0.17763/win10-x86-aot": {
       "Microsoft.Net.Native.Compiler/2.2.7-rel-27913-00": {
         "type": "package",
         "dependencies": {
@@ -8513,7 +8513,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "UAP,Version=v10.0.18362": [
+    "UAP,Version=v10.0.17763": [
       "Microsoft.NETCore.UniversalWindowsPlatform >= 6.2.9",
       "Microsoft.UI.Xaml >= 2.3.200213001",
       "Microsoft.Xaml.Behaviors.Uwp.Managed >= 2.0.1",
@@ -8527,11 +8527,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1\\ProgAvanzTarea1\\ProgAvanzTarea1.csproj",
+      "projectUniqueName": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1v2\\ProgAvanzTarea1\\ProgAvanzTarea1.csproj",
       "projectName": "ProgAvanzTarea1",
-      "projectPath": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1\\ProgAvanzTarea1\\ProgAvanzTarea1.csproj",
+      "projectPath": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1v2\\ProgAvanzTarea1\\ProgAvanzTarea1.csproj",
       "packagesPath": "C:\\Users\\ammarin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1\\ProgAvanzTarea1\\obj\\",
+      "outputPath": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1v2\\ProgAvanzTarea1\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -8542,24 +8542,24 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "uap10.0.18362"
+        "uap10.0.17763"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "uap10.0.18362": {
+        "uap10.0.17763": {
           "projectReferences": {
-            "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1\\ProgAvanzTarea1.Core\\ProgAvanzTarea1.Core.csproj": {
-              "projectPath": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1\\ProgAvanzTarea1.Core\\ProgAvanzTarea1.Core.csproj"
+            "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1v2\\ProgAvanzTarea1.Core\\ProgAvanzTarea1.Core.csproj": {
+              "projectPath": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1v2\\ProgAvanzTarea1.Core\\ProgAvanzTarea1.Core.csproj"
             }
           }
         }
       }
     },
     "frameworks": {
-      "uap10.0.18362": {
+      "uap10.0.17763": {
         "dependencies": {
           "Microsoft.NETCore.UniversalWindowsPlatform": {
             "target": "Package",

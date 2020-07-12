@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VTxGrq9Ja5tQeGPM27PHPwwfePaNVdZxbjG+S313y2AChGJnOL3oxQjt0pccQAXn2GkzQdR5PyULyzxXAkadSw==",
+  "dgSpecHash": "LcAMvzmHqgc5lZ5QoDjIvyywvYBmKyC5h5EbFoJ3XGGgrqQna8PskKabV+1aMiYgYc1K8NtGrz95eVLs1nqKkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1\\ProgAvanzTarea1\\ProgAvanzTarea1.csproj",
+  "projectFilePath": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1v2\\ProgAvanzTarea1\\ProgAvanzTarea1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ammarin\\.nuget\\packages\\microsoft.net.native.compiler\\2.2.7-rel-27913-00\\microsoft.net.native.compiler.2.2.7-rel-27913-00.nupkg.sha512",
     "C:\\Users\\ammarin\\.nuget\\packages\\microsoft.net.uwpcoreruntimesdk\\2.2.9\\microsoft.net.uwpcoreruntimesdk.2.2.9.nupkg.sha512",

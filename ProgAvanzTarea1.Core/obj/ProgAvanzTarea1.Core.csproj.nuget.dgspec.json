@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1\\ProgAvanzTarea1.Core\\ProgAvanzTarea1.Core.csproj": {}
+    "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1v2\\ProgAvanzTarea1.Core\\ProgAvanzTarea1.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1\\ProgAvanzTarea1.Core\\ProgAvanzTarea1.Core.csproj": {
+    "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1v2\\ProgAvanzTarea1.Core\\ProgAvanzTarea1.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1\\ProgAvanzTarea1.Core\\ProgAvanzTarea1.Core.csproj",
+        "projectUniqueName": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1v2\\ProgAvanzTarea1.Core\\ProgAvanzTarea1.Core.csproj",
         "projectName": "ProgAvanzTarea1.Core",
-        "projectPath": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1\\ProgAvanzTarea1.Core\\ProgAvanzTarea1.Core.csproj",
+        "projectPath": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1v2\\ProgAvanzTarea1.Core\\ProgAvanzTarea1.Core.csproj",
         "packagesPath": "C:\\Users\\ammarin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1\\ProgAvanzTarea1.Core\\obj\\",
+        "outputPath": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1v2\\ProgAvanzTarea1.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

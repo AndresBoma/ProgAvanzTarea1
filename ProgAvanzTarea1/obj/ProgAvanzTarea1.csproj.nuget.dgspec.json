@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1\\ProgAvanzTarea1\\ProgAvanzTarea1.csproj": {}
+    "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1v2\\ProgAvanzTarea1\\ProgAvanzTarea1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1\\ProgAvanzTarea1.Core\\ProgAvanzTarea1.Core.csproj": {
+    "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1v2\\ProgAvanzTarea1.Core\\ProgAvanzTarea1.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1\\ProgAvanzTarea1.Core\\ProgAvanzTarea1.Core.csproj",
+        "projectUniqueName": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1v2\\ProgAvanzTarea1.Core\\ProgAvanzTarea1.Core.csproj",
         "projectName": "ProgAvanzTarea1.Core",
-        "projectPath": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1\\ProgAvanzTarea1.Core\\ProgAvanzTarea1.Core.csproj",
+        "projectPath": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1v2\\ProgAvanzTarea1.Core\\ProgAvanzTarea1.Core.csproj",
         "packagesPath": "C:\\Users\\ammarin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1\\ProgAvanzTarea1.Core\\obj\\",
+        "outputPath": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1v2\\ProgAvanzTarea1.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1\\ProgAvanzTarea1\\ProgAvanzTarea1.csproj": {
+    "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1v2\\ProgAvanzTarea1\\ProgAvanzTarea1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1\\ProgAvanzTarea1\\ProgAvanzTarea1.csproj",
+        "projectUniqueName": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1v2\\ProgAvanzTarea1\\ProgAvanzTarea1.csproj",
         "projectName": "ProgAvanzTarea1",
-        "projectPath": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1\\ProgAvanzTarea1\\ProgAvanzTarea1.csproj",
+        "projectPath": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1v2\\ProgAvanzTarea1\\ProgAvanzTarea1.csproj",
         "packagesPath": "C:\\Users\\ammarin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1\\ProgAvanzTarea1\\obj\\",
+        "outputPath": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1v2\\ProgAvanzTarea1\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -80,24 +80,24 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "uap10.0.18362"
+          "uap10.0.17763"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "uap10.0.18362": {
+          "uap10.0.17763": {
             "projectReferences": {
-              "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1\\ProgAvanzTarea1.Core\\ProgAvanzTarea1.Core.csproj": {
-                "projectPath": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1\\ProgAvanzTarea1.Core\\ProgAvanzTarea1.Core.csproj"
+              "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1v2\\ProgAvanzTarea1.Core\\ProgAvanzTarea1.Core.csproj": {
+                "projectPath": "C:\\Users\\ammarin\\source\\repos\\ProgAvanzTarea1v2\\ProgAvanzTarea1.Core\\ProgAvanzTarea1.Core.csproj"
               }
             }
           }
         }
       },
       "frameworks": {
-        "uap10.0.18362": {
+        "uap10.0.17763": {
           "dependencies": {
             "Microsoft.NETCore.UniversalWindowsPlatform": {
               "target": "Package",

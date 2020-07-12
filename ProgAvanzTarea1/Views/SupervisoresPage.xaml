@@ -9,6 +9,19 @@
     <Grid x:Name="ContentArea" Margin="{StaticResource MediumLeftRightMargin}">
         <Grid
             Background="{ThemeResource SystemControlPageBackgroundChromeLowBrush}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock HorizontalAlignment="Right" Margin="0,10,10,0" TextWrapping="Wrap" MinHeight="50" MinWidth="50" Text="{x:Bind ViewModel.TextoAMostrar}" Grid.Column="1">
+            </TextBlock>
+            <TextBox HorizontalAlignment="Left" Margin="160,95,0,0"  TextWrapping="Wrap" VerticalAlignment="Top" Height="60" Width="281" Header="ID" PlaceholderText="Escribir Identificacion Aca"/>
+            <TextBox HorizontalAlignment="Left" Margin="160,303,0,0"  TextWrapping="Wrap" VerticalAlignment="Top" Height="60" Width="281" Header="Nombre" PlaceholderText="EScriba Nombre aca"/>
+            <TextBox HorizontalAlignment="Left" Margin="160,173,0,0"   TextWrapping="Wrap" VerticalAlignment="Top" Height="60" Width="281" Header="Primer Apellido" PlaceholderText="Escriba Primer Apellido aca"/>
+            <TextBox HorizontalAlignment="Left" Margin="160,238,0,0"   TextWrapping="Wrap" VerticalAlignment="Top" Height="60" Width="281" Header="Segundo Apellido" PlaceholderText="Escriba Segundo aca"/>
+            <TextBox HorizontalAlignment="Left" Margin="160,368,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="60" Width="281" Header="Sucursal Asignada" PlaceholderText="Escriba Sucursal aca"/>
+            <Button Content="Agregar Supervisor " Margin="301,460,0,0" VerticalAlignment="Top" Width="140"/>
             <!--
                 The SystemControlPageBackgroundChromeLowBrush background represents where you should place your content. 
                 Place your content here.

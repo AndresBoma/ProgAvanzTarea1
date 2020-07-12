@@ -7,3 +7,12 @@ C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1.Core\obj\Debug\net
 C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1.Core\obj\Debug\netstandard2.0\ProgAvanzTarea1.Core.csproj.CoreCompileInputs.cache
 C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1.Core\obj\Debug\netstandard2.0\ProgAvanzTarea1.Core.dll
 C:\Users\ammarin\source\repos\ProgAvanzTarea1\ProgAvanzTarea1.Core\obj\Debug\netstandard2.0\ProgAvanzTarea1.Core.pdb
+C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1.Core\bin\Debug\netstandard2.0\ProgAvanzTarea1.Core.deps.json
+C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1.Core\bin\Debug\netstandard2.0\ProgAvanzTarea1.Core.dll
+C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1.Core\bin\Debug\netstandard2.0\ProgAvanzTarea1.Core.pdb
+C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1.Core\obj\Debug\netstandard2.0\ProgAvanzTarea1.Core.csprojAssemblyReference.cache
+C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1.Core\obj\Debug\netstandard2.0\ProgAvanzTarea1.Core.AssemblyInfoInputs.cache
+C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1.Core\obj\Debug\netstandard2.0\ProgAvanzTarea1.Core.AssemblyInfo.cs
+C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1.Core\obj\Debug\netstandard2.0\ProgAvanzTarea1.Core.csproj.CoreCompileInputs.cache
+C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1.Core\obj\Debug\netstandard2.0\ProgAvanzTarea1.Core.dll
+C:\Users\ammarin\source\repos\ProgAvanzTarea1v2\ProgAvanzTarea1.Core\obj\Debug\netstandard2.0\ProgAvanzTarea1.Core.pdb

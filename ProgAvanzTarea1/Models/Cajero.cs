@@ -12,7 +12,7 @@ namespace ProgAvanzTarea1.Models
 
         public override string ToString()
         {
-            return string.Format("Identificación: {0} Nombre {1} {2} {3}: Caja Asignada {4}", ID, Nombre, PrimerApellido, SegundoApellido, Caja);
+            return string.Format("Identificación: {0} Nombre: {1} {2} {3}: Caja Asignada {4}.\n", ID, Nombre, PrimerApellido, SegundoApellido, Caja);
         }
     }
 }

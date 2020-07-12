@@ -12,7 +12,10 @@ namespace ProgAvanzTarea1.Models
 
         public string Descripcion { get; set; }
 
-
+        public override string ToString()
+        {
+            return string.Format("Codidgo de Categoria: {0} Descripcion {1}.\n", Codigo, Descripcion);
+        }
 
     }
 }
